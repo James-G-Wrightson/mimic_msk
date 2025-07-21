@@ -1,0 +1,169 @@
+original_codes,exp_codes,power_label
+M00-M03,M00,Traumatic arthritis
+M00-M03,M01,Traumatic arthritis
+M00-M03,M02,Traumatic arthritis
+M00-M03,M03,Traumatic arthritis
+M05 - M09,M05 ,Rheumatoid Arthritis
+M05 - M10,M06,Rheumatoid Arthritis
+M05 - M11,M07,Rheumatoid Arthritis
+M05 - M12,M08,Rheumatoid Arthritis
+M05 - M13,M09,Rheumatoid Arthritis
+M10,M10,Gout
+M11,M11,Gout
+M12,M12,Traumatic arthritis
+M13,M13,Other arthritis
+M14,M14,Gout
+M15-M19,M15,Osteoarthritis
+M15-M19,M16,Osteoarthritis
+M15-M19,M17,Osteoarthritis
+M15-M19,M18,Osteoarthritis
+M15-M19,M19,Osteoarthritis
+M20,M20,Bone Conditions
+M21,M21,Unspecified MSD
+M22-M24,M22,Joint derangement
+M22-M24,M23,Joint derangement
+M22-M24,M24,Joint derangement
+M25,M25,Unspecified MSD
+M30-M36,M30,Connective tissue
+M30-M36,M31,Connective tissue
+M30-M36,M32,Connective tissue
+M30-M36,M33,Connective tissue
+M30-M36,M34,Connective tissue
+M30-M36,M35,Connective tissue
+M30-M36,M36,Connective tissue
+M40-M43,M40,Non-trauma spine
+M40-M43,M41,Non-trauma spine
+M40-M43,M42,Non-trauma spine
+M40-M43,M43,Non-trauma spine
+M45,M45,Ankylosing spondylitis
+M46,M46,Ankylosing spondylitis
+M47,M47,Non-trauma spine
+M48.0-M48.3,M48.0,Non-trauma spine
+M48.0-M48.3,M48.1,Non-trauma spine
+M48.0-M48.3,M48.2,Non-trauma spine
+M48.0-M48.3,M48.3,Non-trauma spine
+M48.4,M48.4,Bone Conditions
+M48.5,M48.5,Bone Conditions
+M48.8-M48.9,M48.8,Non-trauma spine
+M48.8-M48.9,M48.9,Non-trauma spine
+M49-M54,M49,Non-trauma spine
+M49-M54,M50,Non-trauma spine
+M49-M54,M51,Non-trauma spine
+M49-M54,M52,Non-trauma spine
+M49-M54,M53,Non-trauma spine
+M49-M54,M54,Non-trauma spine
+M60-M63,M60,Soft tissue disorders
+M60-M63,M61,Soft tissue disorders
+M60-M63,M62,Soft tissue disorders
+M60-M63,M63,Soft tissue disorders
+M65-M71,M65,Synovitis
+M65-M71,M66,Synovitis
+M65-M71,M67,Synovitis
+M65-M71,M68,Synovitis
+M65-M71,M69,Synovitis
+M65-M71,M70,Synovitis
+M65-M71,M71,Synovitis
+M72-M73,M72,Soft tissue disorders
+M72-M73,M73,Soft tissue disorders
+M75-M77,M75,Soft tissue disorders
+M75-M77,M76,Soft tissue disorders
+M75-M77,M77,Soft tissue disorders
+M79,M79,Soft tissue disorders
+M80-M90,M80,Bone Conditions
+M80-M90,M81,Bone Conditions
+M80-M90,M82,Bone Conditions
+M80-M90,M83,Bone Conditions
+M80-M90,M84,Bone Conditions
+M80-M90,M85,Bone Conditions
+M80-M90,M86,Bone Conditions
+M80-M90,M87,Bone Conditions
+M80-M90,M88,Bone Conditions
+M80-M90,M89,Bone Conditions
+M80-M90,M90,Bone Conditions
+M91-M94,M91,Bone Conditions
+M91-M94,M92,Bone Conditions
+M91-M94,M93,Bone Conditions
+M91-M94,M94,Bone Conditions
+M96,M96,Other arthritis
+M99,M99,Other arthritis
+S12,S12,spine: Fracture/dislocation
+S13.0-S13.3,S13.0,spine: Fracture/dislocation
+S13.0-S13.3,S13.1,spine: Strains/sprains
+S13.0-S13.3,S13.2,spine: Fracture/dislocation
+S13.0-S13.3,S13.3,spine: Fracture/dislocation
+S13.4-S13.5,S13.4,spine: Fracture/dislocation
+S13.4-S13.5,S13.5,spine: Fracture/dislocation
+S22.1,S22.1,spine: Fracture/dislocation
+S23.0-S23.2,S23.0,spine: Fracture/dislocation
+S23.0-S23.2,S23.1,spine: Fracture/dislocation
+S23.0-S23.2,S23.2,spine: Fracture/dislocation
+S23.3,S23.3,spine: Strains/sprains
+S32,S32,spine: Fracture/dislocation
+S33.0- S33.3,S33.0,spine: Fracture/dislocation
+S33.0- S33.3,S33.1,spine: Fracture/dislocation
+S33.0- S33.3,S33.2,spine: Fracture/dislocation
+S33.5-S33.7,S33.5,spine: Strains/sprains
+S33.5-S33.7,S33.6,spine: Strains/sprains
+S33.5-S33.7,S33.7,spine: Strains/sprains
+S42,S42,fracture dislocation
+S43.0-S43.3,S43.0,fracture dislocation
+S43.0-S43.3,S43.1,fracture dislocation
+S43.0-S43.3,S43.2,fracture dislocation
+S43.0-S43.3,S43.3,fracture dislocation
+S43.4-S43.7,S43.4,strains/sprains
+S43.4-S43.7,S43.5,strains/sprains
+S43.4-S43.7,S43.6,strains/sprains
+S43.4-S43.7,S43.7,strains/sprains
+S52,S52,strains/sprains
+S53.0-S53.3,S53.0,Fracture/dislocation
+S53.0-S53.3,S53.1,Fracture/dislocation
+S53.0-S53.3,S53.2,Fracture/dislocation
+S53.0-S53.3,S53.3,Fracture/dislocation
+S53.4,S53.4,strains/sprains
+S62,S62,Fracture/dislocation
+S63.0- S63.4,S63.0,fracture/dislocation
+S63.0- S63.4,S63.1,fracture/dislocation
+S63.0- S63.4,S63.2,fracture/dislocation
+S63.0- S63.4,S63.3,fracture/dislocation
+S63.0- S63.4,S63.4,fracture/dislocation
+S63.5-S63.7,S63.5,strains/sprains
+S63.5-S63.7,S63.6,strains/sprains
+S63.5-S63.7,S63.7,strains/sprains
+S72,S72,fracture/dislocation
+S73.0,S73.0,fracture/dislocation
+S73.1,S73.1,strains/sprains
+S82,S82,fracture/dislocation
+S83.0- S83.1,S83.0,fracture/dislocation
+S83.0- S83.1,S83.1,fracture/dislocation
+S83.2-S83.7,S83.2,strains/sprains
+S83.2-S83.7,S83.3,strains/sprains
+S83.2-S83.7,S83.4,strains/sprains
+S83.2-S83.7,S83.5,strains/sprains
+S83.2-S83.7,S83.6,strains/sprains
+S83.2-S83.7,S83.7,strains/sprains
+S92,S92,fracture/dislocation
+S93.0- S93.3,S93.0,fracture/dislocation
+S93.0- S93.3,S93.1,fracture/dislocation
+S93.0- S93.3,S93.2,fracture/dislocation
+S93.0- S93.3,S93.3,fracture/dislocation
+S93.4-S93.6,S93.4,strains/sprains
+S93.4-S93.6,S93.5,strains/sprains
+S93.4-S93.6,S93.6,strains/sprains
+T02.1,T02.1,spine: Fracture/dislocation
+T02.2-T02.6,T02.2,fracture/dislocation
+T02.2-T02.6,T02.1,fracture/dislocation
+T02.2-T02.6,T02.2,fracture/dislocation
+T02.2-T02.6,T02.3,fracture/dislocation
+T02.2-T02.6,T02.4,fracture/dislocation
+T02.2-T02.6,T02.5,fracture/dislocation
+T02.2-T02.6,T02.6,fracture/dislocation
+T02.7,T02.7,spine: Fracture/dislocation
+T03.1,T03.1,spine: Dislocations/sprains/strains
+T03.2-T03.4,T03.2,Dislocations/sprains/strains
+T03.2-T03.4,T03.3,Dislocations/sprains/strains
+T03.2-T03.4,T03.4,Dislocations/sprains/strains
+T08,T08,spine: Fracture/dislocation
+T10,T10,fracture/dislocation
+T11.2,T11.2,Dislocations/sprains/strains
+T12,T12,fracture/dislocation
+T13.2,T13.2,Dislocations/sprains/strains
